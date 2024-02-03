@@ -1,4 +1,4 @@
-//Cewl
+#Cewl
 import random
 from random import randint
 import sys
